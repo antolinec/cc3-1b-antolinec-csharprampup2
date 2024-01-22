@@ -97,7 +97,7 @@
             $"strongest abilities; {character4} used {abilities2}, {character3} cast her {abilities4} and {abilities3}, " +
             $"{character1} used {abilities1} for heals, {character2} swing his hammer as hard as he can while protecting " +
             $"the party and lasty {character} swings his sword and used {abilities} for the final blow. They managed to defeat " +
-            $"the Demon Lord and the world became peaceful and that's how he became known as \"{character} the Hero\".");
+            $"the Demon Lord and the world became peaceful and that's how he became known as {character} the Hero.");
 
             Console.WriteLine("=================================");
             Console.WriteLine("Pattern 1 Enter a Number");
