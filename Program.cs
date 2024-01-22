@@ -7,14 +7,14 @@
             double weight;
             Console.Write("Weight(lbs): ");
             weight = Convert.ToDouble(Console.ReadLine());
-            double lbstokg = weight / 2.205f;
+            double lbstokg = weight / 2.205;
             Console.WriteLine("Weight in Kilograms: {0} kg", lbstokg);
             Console.WriteLine("==========================");
 
             double length;
             Console.Write("Length(mi): ");
             length = Convert.ToDouble(Console.ReadLine());
-            double mitokm = length * 1.609344f;
+            double mitokm = length * 1.609344;
             Console.WriteLine("Length in Kilometer: {0} km", mitokm);
             Console.WriteLine("==========================");
 
